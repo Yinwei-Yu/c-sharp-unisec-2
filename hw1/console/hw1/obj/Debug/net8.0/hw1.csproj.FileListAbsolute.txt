@@ -1,0 +1,14 @@
+E:\Works\c-sharp\hw1\console\hw1\bin\Debug\net8.0\hw1.exe
+E:\Works\c-sharp\hw1\console\hw1\bin\Debug\net8.0\hw1.deps.json
+E:\Works\c-sharp\hw1\console\hw1\bin\Debug\net8.0\hw1.runtimeconfig.json
+E:\Works\c-sharp\hw1\console\hw1\bin\Debug\net8.0\hw1.dll
+E:\Works\c-sharp\hw1\console\hw1\bin\Debug\net8.0\hw1.pdb
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.AssemblyInfoInputs.cache
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.AssemblyInfo.cs
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.csproj.CoreCompileInputs.cache
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.dll
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\refint\hw1.dll
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.pdb
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\hw1.genruntimeconfig.cache
+E:\Works\c-sharp\hw1\console\hw1\obj\Debug\net8.0\ref\hw1.dll

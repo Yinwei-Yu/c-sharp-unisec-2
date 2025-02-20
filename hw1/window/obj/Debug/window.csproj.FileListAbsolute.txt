@@ -1,0 +1,10 @@
+E:\Works\c-sharp\hw1\window\bin\Debug\window.exe.config
+E:\Works\c-sharp\hw1\window\bin\Debug\window.exe
+E:\Works\c-sharp\hw1\window\bin\Debug\window.pdb
+E:\Works\c-sharp\hw1\window\obj\Debug\window.csproj.AssemblyReference.cache
+E:\Works\c-sharp\hw1\window\obj\Debug\window.Form1.resources
+E:\Works\c-sharp\hw1\window\obj\Debug\window.Properties.Resources.resources
+E:\Works\c-sharp\hw1\window\obj\Debug\window.csproj.GenerateResource.cache
+E:\Works\c-sharp\hw1\window\obj\Debug\window.csproj.CoreCompileInputs.cache
+E:\Works\c-sharp\hw1\window\obj\Debug\window.exe
+E:\Works\c-sharp\hw1\window\obj\Debug\window.pdb
